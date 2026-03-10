@@ -37,7 +37,7 @@ export default function EmployeePage() {
       {/* Welcome Section */}
       <div className="mb-8">
         <h1 className="text-3xl font-bold mb-2">Xin chào, {user?.fullName}! 👋</h1>
-        <p className="text-gray-600">Chào mừng bạn đến với hệ thống đào tạo nội bộ</p>
+        <p className="text-gray-600">Chào mừng đến với hệ thống đào tạo nội bộ</p>
       </div>
 
       {/* Statistics Cards */}
@@ -317,3 +317,4 @@ export default function EmployeePage() {
     </div>
   );
 }
+//update
